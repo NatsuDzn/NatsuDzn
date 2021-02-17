@@ -7,9 +7,9 @@
 [![NatsuDzn's github stats](https://github-readme-stats.vercel.app/api?username=NatsuDzn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatsuDzn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me:
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" src="https://img.shields.io/badge/WEBSITE-2c3e50?style=for-the-badge" />][website]
+[<img align="left" src="https://img.shields.io/badge/dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />][dribbble]
+[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 
 [website]: https://nathanael-louzoun.netlify.app/
